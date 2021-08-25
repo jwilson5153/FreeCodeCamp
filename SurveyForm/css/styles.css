@@ -1,0 +1,33 @@
+h1 {
+    font-size:60pt;
+}
+h2 {
+    font-size: 30pt;
+}
+h3 {
+    font-size: 20pt;
+}
+body {
+    background-color: #fff;
+}
+#main {
+    background-color: #999;
+    padding: 25px;
+}
+#title {
+    text-align: center;
+}
+#img-div {
+    background-color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+#img-caption {
+    font-size: 25pt;
+}
+caption {
+    font-size: 20pt;
+}
+li {
+    font-size: 14pt;
+}
